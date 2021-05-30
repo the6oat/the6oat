@@ -22,9 +22,10 @@
 
 <p align="center">
   <a href="https://the6oat.github.io/">
-    <img alt="GitHub Profile Readme Generator" src="https://user-images.githubusercontent.com/84877781/120053824-a8eb0280-c02c-11eb-9f5d-41ba26cb0b2b.png" width="60" />
+    <img alt="GitHub Profile Readme Generator" src="https://user-images.githubusercontent.com/84877781/120053824-a8eb0280-c02c-11eb-9f5d-41ba26cb0b2b.png" width="60"/>
   </a>
 </p>
+
 <h1 align="center">
   𝟞$𝕚𝕩𝟞 𝕒𝕜𝕒 𝕋𝕙𝕖 𝔾𝕠𝕒𝕥
 </h1>
